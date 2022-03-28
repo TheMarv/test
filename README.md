@@ -35,4 +35,12 @@
    1. Item 3.ii
 
 
+*italic/cursive/emphasis*
+
+**bold/strong**
+
+_italic_
+__bold__
+
+
 Look Mom I know how to use Markdown :)
