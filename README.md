@@ -10,12 +10,29 @@
 * List Item 1
 * List Item 2
 * List Item 3
-  * List Item 3.1
-  * List Item 3.2
+   * List Item 3.1
+   * List Item 3.2
 
 - List Item 1
 - List Item 2
-  - List Item 2.1
-  - List Item 2.2
+   - List Item 2.1
+   - List Item 2.2
+
+## Ordered List
+
+1. Item 1
+2. Item 2
+3. Item 3
+   1. Item 3.i
+   2. Item 3.ii
+
+### Ordered List (simple)
+
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3.i
+   1. Item 3.ii
+
 
 Look Mom I know how to use Markdown :)
