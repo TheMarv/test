@@ -4,4 +4,18 @@
 #### Headline 4 (h4)
 ##### Headline 5 (h5)
 ###### Headline 6 (h6)
-Edited the readme to show I know how to edit files :)
+
+## Unordered List
+
+* List Item 1
+* List Item 2
+* List Item 3
+  * List Item 3.1
+  * List Item 3.2
+
+- List Item 1
+- List Item 2
+  - List Item 2.1
+  - List Item 2.2
+
+Look Mom I know how to use Markdown :)
