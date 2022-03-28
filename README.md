@@ -18,6 +18,7 @@
    - List Item 2.1
    - List Item 2.2
 
+
 ## Ordered List
 
 1. Item 1
@@ -34,6 +35,7 @@
    1. Item 3.i
    1. Item 3.ii
 
+
 ## Bold & Italic
 
 *italic/cursive/emphasis*
@@ -43,9 +45,11 @@
 _italic_
 __bold__
 
+
 ## Strike
 
 ~Strike~
+
 
 ## Links
 
@@ -59,6 +63,29 @@ __bold__
 ## Blockquote
 
 > I am a blockquote
+
+
+## Code
+
+This code is `inline`.
+
+```
+This is a code block
+```
+
+```md
+## Foo
+
+**bold**
+```
+
+```html
+<h1>Headline 1</h1>
+```
+
+```shell
+cd path/to/some/folder
+```
 
 
 Look Mom I know how to use Markdown :)
