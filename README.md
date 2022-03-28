@@ -96,6 +96,16 @@ cd path/to/some/folder
 ![alt text](https://images.unsplash.com/photo-1579822269843-3769559ce9bc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1846&q=80)
 
 
+## Tables
+
+| foo | bar | baz |
+| --- | --- | --- |
+| Hello | Git | Hub |
+
+| foo | bar | baz |
+| :--- | --- | ---: |
+| Hello | Git | Hub !! |
+
 
 Look Mom I know how to use Markdown :)
 
