@@ -93,7 +93,7 @@ cd path/to/some/folder
 ![baby duck](https://user-images.githubusercontent.com/15978350/160430643-ced20c7e-1579-4621-aef6-a1817100c038.jpeg)
 
 
-[!alt text](https://images.unsplash.com/photo-1555111183-52d4ae81523d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=770&q=80)
+![alt text](https://images.unsplash.com/photo-1579822269843-3769559ce9bc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1846&q=80)
 
 
 
