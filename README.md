@@ -34,6 +34,7 @@
    1. Item 3.i
    1. Item 3.ii
 
+## Bold & Italic
 
 *italic/cursive/emphasis*
 
@@ -42,5 +43,8 @@
 _italic_
 __bold__
 
+## Strike
+
+~Strike~
 
 Look Mom I know how to use Markdown :)
